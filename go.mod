@@ -1,4 +1,4 @@
-module github.com/branow/lg2e-ch10-exs
+module github.com/branow/lg2e-ch10-exs/v2
 
 go 1.23.0
 
